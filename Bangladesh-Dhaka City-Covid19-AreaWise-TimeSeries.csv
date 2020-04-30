@@ -1974,66 +1974,332 @@ Date,Location,Confirmed Case
 28.04.2020,Uttara,46
 28.04.2020,Vatara,2
 28.04.2020,Wari,37
-29.04.2020,Dhaka,Dhaka City,3423,85,
-29.04.2020,Dhaka,Dhaka (District),95,3,
-29.04.2020,Dhaka,Gazipur,320,,
-29.04.2020,Dhaka,Kishoreganj,197,1,
-29.04.2020,Dhaka,Madaripur,38,2,
-29.04.2020,Dhaka,Manikganj,21,,
-29.04.2020,Dhaka,Narayanganj,863,39,
-29.04.2020,Dhaka,Munshigonj,109,4,
-29.04.2020,Dhaka,Narshingdi,142,1,
-29.04.2020,Dhaka,Rajbari,14,,
-29.04.2020,Dhaka,Faridpur,12,,
-29.04.2020,Dhaka,Tangail,28,2,
-29.04.2020,Dhaka,Shariatpur,24,1,
-29.04.2020,Dhaka,Gopalganj,52,,
-29.04.2020,Chattogram,Chattogram,70,2,
-29.04.2020,Chattogram,Cox’s bazar,20,,
-29.04.2020,Chattogram,Cumilla,81,4,
-29.04.2020,Chattogram,B. Baria,37,2,
-29.04.2020,Chattogram,Laksmipur,35,1,
-29.04.2020,Chattogram,Bandarban,4,,
-29.04.2020,Chattogram,Noakhali,6,1,
-29.04.2020,Chattogram,Feni,4,,
-29.04.2020,Chattogram,Chandpur,13,,
-29.04.2020,Sylhet,Moulovi Bazar,12,2,
-29.04.2020,Sylhet,Sunamganj,28,,
-29.04.2020,Sylhet,Hobiganj,52,,
-29.04.2020,Sylhet,Sylhet,16,2,
-29.04.2020,Rangpur,Rangpur,28,,
-29.04.2020,Rangpur,Gaibandha,20,,
-29.04.2020,Rangpur,Nilphamari,13,,
-29.04.2020,Rangpur,Lalmonirhat,3,,
-29.04.2020,Rangpur,Kurigram,7,,
-29.04.2020,Rangpur,Dinajpur,18,,
-29.04.2020,Rangpur,Panchagar,8,,
-29.04.2020,Rangpur,Thakurgaon,16,,
-29.04.2020,Khulna,Khulna,11,,
-29.04.2020,Khulna,Jessore,62,,
-29.04.2020,Khulna,Bagerhat,1,,
-29.04.2020,Khulna,Narail,13,,
-29.04.2020,Khulna,Magura,6,,
-29.04.2020,Khulna,Meherpur,2,1,
-29.04.2020,Khulna,Satkhira,1,,
-29.04.2020,Khulna,Jhenaidah,19,,
-29.04.2020,Khulna,Kushtia,13,,
-29.04.2020,Khulna,Chuadanga,8,,
-29.04.2020,Mymensingh,Mymensingh,125,2,
-29.04.2020,Mymensingh,Jamalpur,58,3,
-29.04.2020,Mymensingh,Netrokona,29,,
-29.04.2020,Mymensingh,Sherpur,25,,
-29.04.2020,Barishal,Barguna,30,1,
-29.04.2020,Barishal,Bhola,5,,
-29.04.2020,Barishal,Barishal,40,,
-29.04.2020,Barishal,Potuakhali,23,1,
-29.04.2020,Barishal,Pirojpur,8,,
-29.04.2020,Barishal,Jhalokathi,6,,
-29.04.2020,Rajshahi,Joypurhat,28,1,
-29.04.2020,Rajshahi,Pabna,8,,
-29.04.2020,Rajshahi,Chapainawabganj,2,,
-29.04.2020,Rajshahi,Bogra,18,,
-29.04.2020,Rajshahi,Natore,8,,
-29.04.2020,Rajshahi,Naogaon,15,,
-29.04.2020,Rajshahi,Sirajganj,3,,
-29.04.2020,Rajshahi,Rajshahi,19,2,
+29.04.2020,Abdullahpur,1
+29.04.2020,Adabor,9
+29.04.2020,Agargaon,12
+29.04.2020,Aminbazar,2
+29.04.2020,Amlapara,2
+29.04.2020,Armanitola,2
+29.04.2020,Ashkona,1
+29.04.2020,Azimpur,18
+29.04.2020,Babu Bazar,11
+29.04.2020,Badda,31
+29.04.2020,Baily Road,4
+29.04.2020,Baridhara,7
+29.04.2020,Banasree,1
+29.04.2020,Banani,10
+29.04.2020,Banglamotor,3
+29.04.2020,Bangshal,52
+29.04.2020,Banianagar,1
+29.04.2020,Basabo,32
+29.04.2020,Bijoynagar,1
+29.04.2020,Bashundhora,13
+29.04.2020,Begunbari,1
+29.04.2020,Begum Bazar,1
+29.04.2020,Beribadh,1
+29.04.2020,Bokshi Bazar,5
+29.04.2020,Bosila,1
+29.04.2020,Buet Area,1
+29.04.2020,Cantonment,7
+29.04.2020,Central Road,2
+29.04.2020,Chankharpool,29
+29.04.2020,Chawk Bazar,32
+29.04.2020,Dania,1
+29.04.2020,Dakshinkhan,1
+29.04.2020,Dhakkeshori,1
+29.04.2020,Demra,9
+29.04.2020,Dhanmondi,37
+29.04.2020,Dhalpur,2
+29.04.2020,Dholaipar,2
+29.04.2020,Dholaikhal,2
+29.04.2020,Doyaganj,3
+29.04.2020,Elephant Road,8
+29.04.2020,Eskaton,9
+29.04.2020,Faridabagh,1
+29.04.2020,Fakirapool,2
+29.04.2020,Farmgate,5
+29.04.2020,Gendaria,36
+29.04.2020,Golartek,1
+29.04.2020,Goran,3
+29.04.2020,Golapbagh,2
+29.04.2020,Gonoktuli,3
+29.04.2020,Gopibag,18
+29.04.2020,Green Road,12
+29.04.2020,Gulistan,7
+29.04.2020,Gulshan,25
+29.04.2020,Hatir jhil,3
+29.04.2020,Hatirpool,3
+29.04.2020,Hazaribagh,35
+29.04.2020,Ibrahimpur,2
+29.04.2020,Islambagh,2
+29.04.2020,Islampur,2
+29.04.2020,Jailgate,2
+29.04.2020,Jatrabari,77
+29.04.2020,Jigatala,6
+29.04.2020,Jurain,24
+29.04.2020,Kallyanpur,6
+29.04.2020,Kalabagan,6
+29.04.2020,Kakrail,74
+29.04.2020,Kathalbagan,1
+29.04.2020,Kamalapur,2
+29.04.2020,Kamrangir Char,22
+29.04.2020,Kazi para,8
+29.04.2020,Kawran Bazar,6
+29.04.2020,Koratitola,1
+29.04.2020,Kochukhet,1
+29.04.2020,Khilgaon,29
+29.04.2020,Khilkhet,3
+29.04.2020,Koltabazar,1
+29.04.2020,Kodomtoli,6
+29.04.2020,Kotowali,11
+29.04.2020,Kuril,2
+29.04.2020,Lalbagh,76
+29.04.2020,Laxmibazar,10
+29.04.2020,Madartek,3
+29.04.2020,Malitola,4
+29.04.2020,Malibagh,37
+29.04.2020,Manda,7
+29.04.2020,Maniknagar,3
+29.04.2020,Manikdi,1
+29.04.2020,Matuail,4
+29.04.2020,Meradia,2
+29.04.2020,Mirhajaribagh,3
+29.04.2020,Mirpur-1,30
+29.04.2020,Mirpur-2,2
+29.04.2020,Mirpur-6,6
+29.04.2020,Mirpur-10,14
+29.04.2020,Mirpur-11,30
+29.04.2020,Mirpur-12,18
+29.04.2020,Mirpur-13,3
+29.04.2020,Mirpur-14,37
+29.04.2020,Mitford,38
+29.04.2020,Mogbazar,36
+29.04.2020,Monipur,1
+29.04.2020,Mohakhali,59
+29.04.2020,Mohonpur,1
+29.04.2020,Mohammadpur,65
+29.04.2020,Motijeel,2
+29.04.2020,Mugda,53
+29.04.2020,Nawabpur,1
+29.04.2020,Nazirabazar,9
+29.04.2020,Nawabganj,4
+29.04.2020,Narinda,11
+29.04.2020,Nilkhet,3
+29.04.2020,Nakhalpara,9
+29.04.2020,Nayabazar,7
+29.04.2020,Neemtoli,5
+29.04.2020,Nikunja,1
+29.04.2020,Pallabi,5
+29.04.2020,Pirerbagh,3
+29.04.2020,Postogola,5
+29.04.2020,Purana Paltan,27
+29.04.2020,Rajarbagh,130
+29.04.2020,Rampura,21
+29.04.2020,Ramna,9
+29.04.2020,Rayerbagh,2
+29.04.2020,Raja Bazar,2
+29.04.2020,Rosulpur,1
+29.04.2020,Rupganj,1
+29.04.2020,Rayerbazar,4
+29.04.2020,Sabujbagh,7
+29.04.2020,Sadarghat,3
+29.04.2020,Sahjanpur,12
+29.04.2020,Sayedabad,4
+29.04.2020,Segunbagicha,4
+29.04.2020,Science Lab,1
+29.04.2020,Shah Ali Bagh,2
+29.04.2020,Shahbag,49
+29.04.2020,Shakharibazar,28
+29.04.2020,Shantibagh,5
+29.04.2020,Shampur,1
+29.04.2020,Shantinagar,15
+29.04.2020,Shaymoli,17
+29.04.2020,Shewrapara,7
+29.04.2020,Shekher Tek,1
+29.04.2020,Showari Ghat,3
+29.04.2020,Sipahibag,1
+29.04.2020,Siddheshwari,4
+29.04.2020,Sonir akhra,8
+29.04.2020,Swamibagh,31
+29.04.2020,Sher-E-Bangla Nagar,6
+29.04.2020,Sutrapur,17
+29.04.2020,TatiBazar,3
+29.04.2020,Tikatoli,15
+29.04.2020,Tejkunipara,3
+29.04.2020,Tejgaon,45
+29.04.2020,Turag,1
+29.04.2020,Tezturi Bazar,4
+29.04.2020,Tongi,9
+29.04.2020,Tolarbag,19
+29.04.2020,Urdu Road,1
+29.04.2020,Uttara,55
+29.04.2020,Vatara,2
+29.04.2020,Wari,39
+30.04.2020,Abdullahpur,1
+30.04.2020,Adabor,9
+30.04.2020,Agargaon,12
+30.04.2020,Aminbazar,2
+30.04.2020,Amlapara,2
+30.04.2020,Armanitola,3
+30.04.2020,Ashkona,1
+30.04.2020,Azimpur,19
+30.04.2020,Babu Bazar,29
+30.04.2020,Badda,40
+30.04.2020,Baily Road,4
+30.04.2020,Bakshibazar,2
+30.04.2020,Baridhara,7
+30.04.2020,Banasree,2
+30.04.2020,Banani,10
+30.04.2020,Banglamotor,3
+30.04.2020,Bangshal,54
+30.04.2020,Banianagar,1
+30.04.2020,Basabo,33
+30.04.2020,Bijoynagar,1
+30.04.2020,Bashundhora,13
+30.04.2020,Begunbari,2
+30.04.2020,Begum Bazar,1
+30.04.2020,Beribadh,1
+30.04.2020,Bokshi Bazar,5
+30.04.2020,Bosila,1
+30.04.2020,Buet Area,1
+30.04.2020,Cantonment,8
+30.04.2020,Central Road,2
+30.04.2020,Chankharpool,31
+30.04.2020,Chawk Bazar,32
+30.04.2020,Dania,1
+30.04.2020,Dakshinkhan,1
+30.04.2020,Dhakkeshori,1
+30.04.2020,Demra,10
+30.04.2020,Dhanmondi,37
+30.04.2020,Dhalpur,2
+30.04.2020,Dholaipar,2
+30.04.2020,Dholaikhal,2
+30.04.2020,Doyaganj,3
+30.04.2020,Elephant Road,10
+30.04.2020,Eskaton,10
+30.04.2020,Faridabagh,1
+30.04.2020,Fakirapool,2
+30.04.2020,Forashganj,2
+30.04.2020,Farmgate,18
+30.04.2020,Gendaria,42
+30.04.2020,Golartek,1
+30.04.2020,Goran,3
+30.04.2020,Golapbagh,3
+30.04.2020,Gonoktuli,3
+30.04.2020,Gopibag,19
+30.04.2020,Green Road,12
+30.04.2020,Gulistan,7
+30.04.2020,Gulshan,27
+30.04.2020,Hatir jhil,5
+30.04.2020,Hatirpool,3
+30.04.2020,Hazaribagh,36
+30.04.2020,Ibrahimpur,2
+30.04.2020,Islambagh,2
+30.04.2020,Islampur,2
+30.04.2020,Jailgate,2
+30.04.2020,Jatrabari,91
+30.04.2020,Jigatala,7
+30.04.2020,Jurain,27
+30.04.2020,Kallyanpur,6
+30.04.2020,Kalabagan,7
+30.04.2020,Kakrail,135
+30.04.2020,Kathalbagan,1
+30.04.2020,Kamalapur,2
+30.04.2020,Kamrangir Char,23
+30.04.2020,Kazi para,10
+30.04.2020,Kawran Bazar,10
+30.04.2020,Koratitola,1
+30.04.2020,Kosaituli,1
+30.04.2020,Kochukhet,1
+30.04.2020,Khilgaon,31
+30.04.2020,Khilkhet,3
+30.04.2020,Koltabazar,1
+30.04.2020,Kodomtoli,6
+30.04.2020,Kotowali,11
+30.04.2020,Kutubkhali,6
+30.04.2020,Kuril,2
+30.04.2020,Lalbagh,77
+30.04.2020,Laxmibazar,10
+30.04.2020,Madartek,3
+30.04.2020,Malitola,4
+30.04.2020,Malibagh,49
+30.04.2020,Matikata,4
+30.04.2020,Manda,10
+30.04.2020,Maniknagar,4
+30.04.2020,Manikdi,1
+30.04.2020,Matuail,5
+30.04.2020,Meradia,2
+30.04.2020,Mirhajaribagh,5
+30.04.2020,Mirpur-1,31
+30.04.2020,Mirpur-2,2
+30.04.2020,Mirpur-6,6
+30.04.2020,Mirpur-10,17
+30.04.2020,Mirpur-11,31
+30.04.2020,Mirpur-12,18
+30.04.2020,Mirpur-13,3
+30.04.2020,Mirpur-14,37
+30.04.2020,Mitford,38
+30.04.2020,Mogbazar,40
+30.04.2020,Monipur,1
+30.04.2020,Mohakhali,64
+30.04.2020,Mohonpur,1
+30.04.2020,Mohammadpur,68
+30.04.2020,Motijeel,2
+30.04.2020,Mugda,62
+30.04.2020,Nawabpur,1
+30.04.2020,Nazirabazar,9
+30.04.2020,Nawabganj,4
+30.04.2020,Narinda,13
+30.04.2020,Nilkhet,3
+30.04.2020,Nakhalpara,11
+30.04.2020,Nayabazar,8
+30.04.2020,Neemtoli,5
+30.04.2020,Nikunja,1
+30.04.2020,Pallabi,5
+30.04.2020,Paltan,29
+30.04.2020,Pirerbagh,3
+30.04.2020,Postogola,6
+30.04.2020,Purana Paltan,27
+30.04.2020,Rajarbagh,138
+30.04.2020,Rampura,22
+30.04.2020,Ramna,12
+30.04.2020,Rayerbagh,2
+30.04.2020,Raja Bazar,2
+30.04.2020,Rosulpur,1
+30.04.2020,Rupganj,1
+30.04.2020,Rayerbazar,4
+30.04.2020,Sabujbagh,7
+30.04.2020,Sadarghat,3
+30.04.2020,Sahjanpur,14
+30.04.2020,Sayedabad,4
+30.04.2020,Segunbagicha,4
+30.04.2020,Science Lab,1
+30.04.2020,Shah Ali Bagh,2
+30.04.2020,Shahbag,50
+30.04.2020,Shakharibazar,28
+30.04.2020,Shantibagh,9
+30.04.2020,Shampur,1
+30.04.2020,Shantinagar,15
+30.04.2020,Shaymoli,22
+30.04.2020,Shewrapara,7
+30.04.2020,Shekher Tek,1
+30.04.2020,Showari Ghat,3
+30.04.2020,Sipahibag,1
+30.04.2020,Siddheshwari,4
+30.04.2020,Sonir akhra,12
+30.04.2020,Swamibagh,31
+30.04.2020,Sher-E-Bangla Nagar,6
+30.04.2020,Sutrapur,18
+30.04.2020,TatiBazar,6
+30.04.2020,Tikatoli,16
+30.04.2020,Tejkunipara,3
+30.04.2020,Tejgaon,50
+30.04.2020,Turag,1
+30.04.2020,Tezturi Bazar,4
+30.04.2020,Tongi,10
+30.04.2020,Tolarbag,19
+30.04.2020,Urdu Road,1
+30.04.2020,Uttara,59
+30.04.2020,Vatara,2
+30.04.2020,Wari,41
+
